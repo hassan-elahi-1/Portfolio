@@ -12,7 +12,7 @@ window.onscroll = () => {
     navbar.classList.toggle('active');
 }
 const typed = new Typed('.multiple-text', {
-    strings: ['Frontend Developer', 'Backend Developer','Web Designer', 'Graphic Designer'],
+    strings: ['Frontend Developer', 'Backend Developer','UI/UX Designer', 'Graphic Designer', 'AI Developer'],
     typeSpeed: 80,
     backSpeed: 40,
     backDelay: 1200,
